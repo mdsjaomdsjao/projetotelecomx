@@ -5,13 +5,13 @@ Este notebook realiza uma análise exploratória (EDA) de um conjunto de dados r
 
 ## ✅ Etapas principais:
 
-- **Limpeza dos dados**:  
+- **Limpeza dos dados**  
 
 
-- **Transformações**:  
+- **Transformações**  
 
 
-- **Visualizações**:  
+- **Visualizações**
 
 
 ## 🛠️ Bibliotecas usadas:
